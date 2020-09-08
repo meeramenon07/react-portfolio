@@ -1,138 +1,144 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Meera Menon",
+    "occupation": "On the way to be a ReactJS Developer && Instructor @edtech",
+    "description": "Learning to be a full stack web developer,  &  teaching on YouTube",
+    "image": "meeracloseup.jpeg",
+    "bio": "My name is Meera, I'm a Front end web Developer. Currently I'm learning React and back-end web development while also teaching online at edtech ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "meeramenon07@gmail.com",
+    "phone": "+60 16 956 8190",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Jalan Stesen Sentral",
+      "city": "Kuala Lumpur", 
+      "state": "Malaysia",
+      "zip": "50470"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/edtech.meera",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/meerabmenon/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/meeraloves2code/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/meeramenon07",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Skills that I can boast of",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "FreeCodeCamp",
+        "certificate": "Responsive Front-end Web Design",
+        "graduated": "November 2019",
+        "description": "Online certification"
+      },
+      {
+        "school": "Management & Science University",
+        "degree": "Master in Business Management",
+        "graduated": "November 2018",
+        "description": "Passed with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "edtech",
+        "title": "Team Member && front-end web design teacher",
+        "years": "September 2019 - Present",
+        "description": "Teaching beginner level Html, CSS and JavaScript to beginner students."
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Limkokwing University",
+        "title": "Lecturer",
+        "years": "Nov 2008 - Oct 2013",
+        "description": "Teaching Management modules, a reputed international university."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "50%"
       },
       {
         "name": "CSS",
         "level": "95%"
       },
       {
-        "name": "Git",
+        "name": "Github",
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "E-Commerce database",
+        "level": "75%"
       },
       {
         "name": "HTML5",
         "level": "80%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Data Visualization",
+        "level": "50%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Product Landing Page",
+        "category": "Front end landing page  built with pure html and css only",
+        "image": "landingpagesunglass.png",
+        "url": "https://codepen.io/meeramenon07/pen/vYGKYJj"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Pomodoro Clock",
+        "category": "Pomodoro Clock built with Html, SCSS and React",
+        "image": "pomodoroclock.png",
+        "url": "https://codepen.io/meeramenon07/full/zYrzgpp"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Search App for Meals with React",
+        "category": "Search app built with ReactJS",
+        "image": "mealsearchapp.png",
+        "url": "https://codepen.io/meeramenon07/full/GRozbBJ"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
+        "title": "Survey form",
+        "category": "survey form online built with pure html, css",
+        "image": "surveyform.png",
         "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
       },
       {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Calculator",
+        "category": "Calculator built with ReactJS",
+        "image": "reactcalculator.png",
+        "url": "https://codepen.io/meeramenon07/full/MWwrWwZ"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Meera is a good example for those who have interest to work in the industry as she set the standard high for her work and really all out. She is dedicated and good personality..",
+        "user": "Ken Chin"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": " spent a year working with Meera in LUCT and loved every second of it since Meera is a very kind and passionate person as well as a professional individual she is. I also liked the fact that she was one the students' most favorite lecturers as well. She is so much into reading and updating herself to make sure the quality of the task she is doing is always on top."      
+        "user": "Arash Fakharzadeh"
       }
     ]
   }
